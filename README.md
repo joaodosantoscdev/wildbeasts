@@ -7,4 +7,4 @@
 <p>Foi aplicado aqui meus conhecimentos de HTML5 e CSS Grid Layot para criação de uma <strong>API WEB responsíva</strong>, além de solidificar os conceitos de <strong>UX/UI</strong>✔️</p>
 <em>'Este projeto não possui fins comerciais, foi realizado somente para aplicação de estudos'📚</em>
 <hr>
-<strong>----João Vítor Carvalho 👨‍💻 ----</strong>
+<strong>----João Vítor Carvalho 👨‍💻 ---</strong>
