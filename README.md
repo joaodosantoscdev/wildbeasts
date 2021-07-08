@@ -1,5 +1,5 @@
 <h2>Olá ❕</h2>
-<h3>➡️Este projeto foi criado usando <strong>HTML5 e CSS Grid Layout</strong></h3>
+<h3>➡️Este projeto foi criado usando <strong>HTML5 e CSS Grid Layout</strong> 🛠️</h3>
 <p>Criado durante o curso de CSS Grid Layout da Origamid.</p>
 <hr>
 <img src="imgs/wild.jpg"></img>
