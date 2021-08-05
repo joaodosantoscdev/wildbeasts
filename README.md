@@ -12,13 +12,13 @@
 <hr>
 <h3>Mobile 📱</h3>
 <hr>
-<img src="imgs/wild.jpg"></img>
+<img src="imgs/header-mobile.jpg"></img>
 <br>
-<img src="imgs/wild.jpg"></img>
+<img src="imgs/content-mobile.jpg"></img>
 <br>
-<img src="imgs/wild.jpg"></img>
+<img src="imgs/status-mobile.jpg"></img>
 <br>
-<img src="imgs/wild.jpg"></img>
+<img src="imgs/footer-mobile.jpg"></img>
 <hr>
 <h3>Overview ⮯</h3>
 <p>Was applicated here my knowledges in HTML5 e CSS Grid Layout to create a <strong>responsive API WEB</strong>, 
