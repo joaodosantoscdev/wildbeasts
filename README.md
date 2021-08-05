@@ -1,7 +1,7 @@
 <h2>Hello ❕</h2>
 <h3>➡️This project was developed using <strong>HTML5 e CSS Grid Layout</strong> 🛠️</h3>
 <p>➡️Developed during Origamid CSS Grid Layout classes.</p>
-<p>You can acess <a href="" target="_blank" alt="wildbeasts">here</a>.</p>
+<p>You can acess <a href="https://joaodosantoscdev.github.io/wildbeasts/wildbeast/" target="_blank" alt="wildbeasts">here</a>.</p>
 <hr>
 <h3>Desktop 🖥️</h3>
 <img src="imgs/header.jpg"></img>
