@@ -46,7 +46,7 @@ img {
   
   @media (max-width: 760px) {
     .estrutura {
-      grid-template-columns: 100%;
+      grid-template-columns: auto;
       grid-template-areas:
         'header'
         'sidenav'
@@ -198,7 +198,7 @@ img {
     padding: 30px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 30px;
+    grid-gap: 30px;
   }
 
 .col-wide {
